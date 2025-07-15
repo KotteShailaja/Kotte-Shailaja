@@ -14,8 +14,14 @@ Confluence · Slack · Miro
 
 💡 Areas of Focus:
 Agile Product Development
+
 Workflow Automation
+
 AI-Enhanced Productivity
+
 Leading Cross-Functional Teams
+
+
+
 
 
