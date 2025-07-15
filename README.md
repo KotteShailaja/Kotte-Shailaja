@@ -7,7 +7,6 @@ My work lives at the intersection of **business strategy**, **design thinking**,
 
 🧠 I'm passionate about solving real problems with clean, automated solutions — especially when powered by emerging tech like **AI** and **no-code platforms**.
 
----
 
  🛠️ Tools & Platforms I Work With
 
@@ -17,7 +16,6 @@ JIRA | Notion | Trello
 🧾 Collaboration & Documentation:  
 Confluence | Slack | Miro
 
----
 
  💡 What I Enjoy Working On:
 - Agile Delivery  
